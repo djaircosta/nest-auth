@@ -1,0 +1,31 @@
+{
+    "SAP HANA Database Explorer.displaySapWebAnalyticsStartupNotification": false,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "connection-local",
+            "database": "nest_auth",
+            "username": "root",
+            "password": "bseidf2021"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "nest-auth-local",
+            "database": "nest-auth",
+            "username": "root",
+            "password": "bseidf2021"
+        }
+    ]
+}
